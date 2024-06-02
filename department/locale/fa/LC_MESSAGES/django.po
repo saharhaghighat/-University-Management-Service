@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-02 20:05+0000\n"
+"PO-Revision-Date: 2024-04-02 19:48+0000\n"
+"Last-Translator: Ali\n"
+"Language-Team: \n"
+"Language: fa \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "department"
+msgstr "دانشکده"
+
+msgid "faculty"
+msgstr "دانشکده"
+
+msgid "faculties"
+msgstr "دانشکده‌ها"
+
+msgid "term"
+msgstr "ترم"
+
+msgid "terms"
+msgstr "ترم‌ها"
+
+msgid "name"
+msgstr "اسم"
+
+msgid "class start"
+msgstr "شروع کلاس"
+
+msgid "class end"
+msgstr "پایان کلاس"
+
+msgid "enrollment start"
+msgstr "شروع ثبت‌نام"
+
+msgid "enrollment end"
+msgstr "پایان ثبت‌نام"
+
+msgid "amend start"
+msgstr "شروع اصلاحیه"
+
+msgid "amend end"
+msgstr "پایان اصلاحیه"
+
+msgid "emergency drop end"
+msgstr "پایان حذف اضطراری"
+
+msgid "exam start"
+msgstr "شروع امتحانات"
+
+msgid "term end"
+msgstr "پایان ترم"
+
+msgid "field"
+msgstr "رشته"
+
+msgid "fields"
+msgstr "رشته‌ها"
+
+msgid "course"
+msgstr "درس"
+
+msgid "courses"
+msgstr "دروس"
+
+msgid "offering faculty"
+msgstr "دانشکده ارائه‌دهنده"
+
+msgid "prerequisites courses"
+msgstr "دروس پیش‌نیاز"
+
+msgid "corequisites courses"
+msgstr "دروس هم‌نیاز"
+
+msgid "units"
+msgstr "واحدها"
+
+msgid "type"
+msgstr "نوع"
+
+msgid "term course"
+msgstr "درس ترم"
+
+msgid "term courses"
+msgstr "دروس ترم"
+
+msgid "started"
+msgstr "شروع شده"
+
+msgid "in_progress"
+msgstr "در حال انجام"
+
+msgid "completed"
+msgstr "تمام شده"
+
+msgid "bachelor"
+msgstr "کارشناسی"
+
+msgid "master"
+msgstr "کارشناسی ارشد"
+
+msgid "doctorate"
+msgstr "دکتری"
+
+msgid "Optional"
+msgstr "اختیاری"
+
+msgid "Basic"
+msgstr "پایه"
+
+msgid "General"
+msgstr "عمومی"
+
+msgid "Specialized"
+msgstr "تخصصی"
+
+msgid "Other"
+msgstr "؟؟؟"
+

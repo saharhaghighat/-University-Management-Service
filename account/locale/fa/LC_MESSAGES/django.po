@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-02 19:48+0000\n"
+"PO-Revision-Date: 2024-04-02 19:48+0000\n"
+"Last-Translator: Ali\n"
+"Language-Team: \n"
+"Language: fa \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "account"
+msgstr "حساب"
+
+msgid "Male"
+msgstr "مرد"
+
+msgid "Female"
+msgstr "زن"
+
+msgid "Assistant Professor"
+msgstr "استادیار"
+
+msgid "Associate Professor"
+msgstr "دانشیار"
+
+msgid "Professor"
+msgstr "استاد"
+
+msgid "id"
+msgstr "شناسه"
+
+msgid "national code"
+msgstr "کد ملی"
+
+msgid "gender"
+msgstr "جنسیت"
+
+msgid "phone"
+msgstr "تلفن"
+
+msgid "profile image"
+msgstr "تصویر پروفایل"
+
+msgid "birth date"
+msgstr "تاریخ تولد"
+
+msgid "created at"
+msgstr "ایجاد شده در"
+
+msgid "faculty"
+msgstr "دانشکده"
+
+msgid "field"
+msgstr "رشته"
+
+msgid "specialization"
+msgstr "تخصص"
+
+msgid "academic rank"
+msgstr "رتبه علمی"
+
+msgid "taught courses"
+msgstr "دروس تدریس شده"
+
+msgid "entry year"
+msgstr "سال ورود"
+
+msgid "entry term"
+msgstr "ترم ورود"
+
+msgid "gpa"
+msgstr "معدل"
+
+msgid "advisor"
+msgstr "مشاور"
+
+msgid "passed courses"
+msgstr "دروس گذرانده"
+
+msgid "in progress courses"
+msgstr "دروس در حال انجام"
+
+msgid "military service status"
+msgstr "وضعیت خدمت سربازی"
+
+msgid "academic probation years"
+msgstr "سال‌های تحصیلی تحت تعلیق"
+
+msgid "Student"
+msgstr "دانشجو"
+
+msgid "Students"
+msgstr "دانشجویان"
+
+msgid "Teacher"
+msgstr "استاد"
+
+msgid "Teachers"
+msgstr "اساتید"
+
+msgid "Assistant"
+msgstr "معاون آموزشی"
+
+msgid "Assistants"
+msgstr "معاونین آموزشی"

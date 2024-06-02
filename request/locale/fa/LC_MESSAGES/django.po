@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-02 19:48+0000\n"
+"PO-Revision-Date: 2024-04-02 19:48+0000\n"
+"Last-Translator: Ali\n"
+"Language-Team: \n"
+"Language: fa \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "request"
+msgstr "درخواست"
+
+msgid "Approved"
+msgstr "تایید شده"
+
+msgid "Rejected"
+msgstr "رد شده"
+
+msgid "Pending"
+msgstr "در انتظار"
+
+msgid "Registered"
+msgstr "اضافه"
+
+msgid "Dropped"
+msgstr "حذف"
+
+msgid "Waitlisted"
+msgstr "لیست انتظار"
+
+msgid "enrollment"
+msgstr "ثبت نام"
+
+msgid "enrollments"
+msgstr "ثبت نام‌ها"
+
+msgid "amend"
+msgstr "حذف و اضافه"
+
+msgid "amends"
+msgstr "ترمیم‌ها"
+
+msgid "amend type"
+msgstr "نوع ترمیم"
+
+msgid "request status"
+msgstr "وضعیت درخواست"
+
+msgid "review"
+msgstr "درخواست تجدیدنظر"
+
+msgid "reviews"
+msgstr "درخواست‌های تجدیدنظر"
+
+msgid "request text"
+msgstr "متن درخواست"
+
+msgid "answer text"
+msgstr "متن پاسخ"
+
+msgid "is reviewed"
+msgstr "بازبینی شده"
+
+msgid "Studying Certificate"
+msgstr "گواهی اشتغال به تحصیل"
+
+msgid "Studying Certificates"
+msgstr "گواهی‌های اشتغال به تحصیل"
+
+msgid "term"
+msgstr "ترم"
+
+msgid "document"
+msgstr "فایل"
+
+msgid "certificate issue place"
+msgstr "محل صدور گواهی"
+
+
+msgid "With Credits"
+msgstr "با سنوات "
+
+msgid "Without Credits"
+msgstr "بدون سنوات "
