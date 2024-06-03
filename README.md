@@ -1,4 +1,4 @@
-# Samane Golestan
+# University Management Service
 
 ## Prerequisites
 
