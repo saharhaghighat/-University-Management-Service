@@ -1,5 +1,6 @@
 # University Management Service
-A University Management Service was developed using Django and Django Rest Framework (DRF) to streamline course enrollment, teacher assignment, and student registration. This project enhanced the team's Python skills and provided practical experience in web development and database management with Django and DRF. 
+Develop a University Management Service using Django and Django Rest Framework (DRF) to streamline course enrollment, teacher assignment, and student registration.
+Enhance the team's Python skills and provide practical experience in web development and database management with Django and DRF.
 
 ## Prerequisites
 
